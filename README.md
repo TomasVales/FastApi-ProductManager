@@ -27,3 +27,6 @@ This project is ideal as a backend base for inventory systems, small e-commerce 
 - **Uvicorn**
 
 ---
+
+
+<img width="1546" height="901" alt="2" src="https://github.com/user-attachments/assets/ddc1b141-6dfe-4941-b337-ba1b77bfb22a" />
